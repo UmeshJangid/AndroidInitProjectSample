@@ -9,16 +9,15 @@ This project contains following:
 
 # UI
 ### 1.Splash screen 
-# 2.Login/Signin Screen 
-# 3.Register/Signup Screen 
-# 4.Forgot Password Screen
-# 5.Reset/Change Password Screen 
-# 6.Home/Dashboard Screen
-# 7.Notifications
-
-# ------------------------------
-
-# Utility
-# Network Classes (Ready to user api)
+### 2.Login/Signin Screen 
+### 3.Register/Signup Screen 
+### 4.Forgot Password Screen
+### 5.Reset/Change Password Screen 
+### 6.Home/Dashboard Screen
+### 7.Notifications/Profile Screen
 
 
+### Utility
+### Network Classes (Ready to user api)
+### Live Location Module
+and any more.
