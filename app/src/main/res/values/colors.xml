@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorPrussianBlue">#093270</color>
+    <color name="colorWindowBackground">#FFFFFF</color>
+    <color name="colorEchoBlue">#ADB8CB</color>
+    <color name="colorCaribbeanGreen">#01C293</color>
+    <color name="colorShimmerViewBackground">#dddddd</color>
+
+    <color name="colorTextBlack">#000000</color>
+    <color name="colorTextWhite">#FFFFFF</color>
+    <color name="colorTextEchoBlue">#ADB8CC</color>
+    <color name="colorTextChambray">#3E557F</color>
+    <color name="colorTextPrussianBlue">#093270</color>
+    <color name="colorTextWaikawaGrey">#67748C</color>
+
+    <color name="colorDividerOne">#BFBFBF</color>
+    <color name="colorDividerEchoBlue">#ADB8CC</color>
+
+    <!--  Buttons  -->
+    <color name="colorTextButtonBlueOne">#ffffff</color>
+    <color name="colorButtonBlueOne">#093270</color>
+    <color name="colorRippleButtonBlueOne">#3078E6</color>
+
+    <color name="colorTextButtonBlueTwo">#ffffff</color>
+    <color name="colorButtonBlueTwo">#093270</color>
+    <color name="colorRippleButtonBlueTwo">#3078E6</color>
+
+    <color name="colorTextButtonBlueThree">#ffffff</color>
+    <color name="colorButtonBlueThree">#093270</color>
+    <color name="colorRippleButtonBlueThree">#3078E6</color>
+
+    <color name="colorTextButtonGreenOne">#FFFFFF</color>
+    <color name="colorButtonGreenOne">#01C293</color>
+    <color name="colorRippleButtonGreenOne">#027E60</color>
+
+    <color name="colorTextButtonGreenTwo">#FFFFFF</color>
+    <color name="colorButtonGreenTwo">#01C293</color>
+    <color name="colorRippleButtonGreenTwo">#027E60</color>
+
+    <color name="colorTextButtonGreyOne">#B3B3B3</color>
+    <color name="colorButtonGreyOne">#FFFFFF</color>
+    <color name="colorRippleButtonGreyOne">#20000000</color>
+
+    <color name="colorTextButtonBlueFour">#093270</color>
+    <color name="colorButtonBlueFour">#00FFFFFF</color>
+    <color name="colorRippleButtonBlueFour">#70093270</color>
+
+
+
+    <!--Chat Activity-->
+    <color name="color_transparent">#00000000</color>
+    <!---->
+
+    <color name="colorPrimary">#000000</color>
+    <!--<color name="colorPrimaryDark">#0f273e</color>-->
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#f97544</color>
+
+
+    <color name="rippelColor">#FFFFFF</color>
+
+    <color name="light_black">#313131</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#a1a1a1</color>
+
+    <color name="placeholder_bg">#dddddd</color>
+    <color name="colorPumpkin">#F68121</color>
+
+
+    <!-- Others Colors -->
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#D00D0D</color>
+    <color name="grey">#AAACBA</color>
+
+
+
+    <!-- Others -->
+
+    <color name="green">#029c1f</color>
+
+    <color name="divider_color">#c8c8c8</color>
+    <color name="home_divider_color">#f1f1f1</color>
+    <color name="divider_light">#f2f2f2</color>
+
+
+    <color name="app_green">#05ceaa</color>
+
+    <color name="inactive_color">#adadad</color>
+
+    <color name="demo_dark_transparent">#24000000</color>
+    <color name="filter_unselected_color">#f4f4f4</color>
+    <color name="intro_text_color">#f98255</color>
+    <color name="app_orange">#f87544</color>
+    <color name="default_color">#9b9b9b</color>
+    <color name="caption_color">#7c7470</color>
+    <color name="tab_green">#4fc99f</color>
+</resources>

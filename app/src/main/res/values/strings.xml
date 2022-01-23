@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">DSElearning</string>
+    <string name="ok">OK</string>
+    <string name="go_back">GO BACK</string>
+    <string name="facebook_app_id">1234567890</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="err_network_connection">Please check your network connection</string>
+    <string name="err_something_wrong">Something went wrong! Please try again later.</string>
+    <string name="err_server_connection">Couldn\'t connect to sever! Please try again later.</string>
+    <string name="err_email_empty">Please enter email address</string>
+    <string name="err_username_empty">Please enter username</string>
+    <string name="err_password_empty">Please enter password</string>
+    <string name="err_email_invalid">Please enter valid email address</string>
+    <string name="err_password_min_length">Please enter minimum 6 characters for password</string>
+    <string name="err_first_name_empty">Please enter first name</string>
+    <string name="err_last_name_empty">Please enter last name</string>
+    <string name="err_confirm_password_empty">Please re-enter password</string>
+    <string name="err_mismatch_password">Couldn\'t match password</string>
+    <string name="err_mobile_empty">Please enter mobile number</string>
+    <string name="err_mobile_min_chars">Mobile number should have at least 8 characters</string>
+    <string name="err_mobile_max_chars">Mobile number can have maximam 12 characters</string>
+    <string name="err_current_password_empty">Please enter current password</string>
+    <string name="err_current_password_min_length">Please enter minimum 6 characters for password</string>
+    <string name="err_new_password_empty">Please enter new password</string>
+    <string name="err_confirm_new_password_empty">Please re-enter new password</string>
+    <string name="msg_please_wait">Please wait…</string>
+    <string name="msg_loading">Loading...</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_email">Enter Username</string>
+    <string name="enter_your_pass">Enter Your Password</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="home">Home</string>
+    <string name="update">Update</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="change_password">Change Password</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="title_activity_navigation_drawer">ActivityNavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+</resources>

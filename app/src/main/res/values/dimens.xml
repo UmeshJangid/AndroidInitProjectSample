@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_radius_progress_dialog">10dp</dimen>
+
+
+    <dimen name="buttonBlueOneHeight">42dp</dimen>
+    <dimen name="buttonBlueOneRadius">8dp</dimen>
+    <dimen name="buttonBlueOneTextSize">15sp</dimen>
+    <dimen name="buttonBlueOnePadding">12dp</dimen>
+
+    <dimen name="buttonBlueTwoHeight">80dp</dimen>
+    <dimen name="buttonBlueTwoRadius">40dp</dimen>
+    <dimen name="buttonBlueTwoTextSize">0sp</dimen>
+    <dimen name="buttonBlueTwoPadding">16dp</dimen>
+
+    <dimen name="buttonBlueThreeHeight">42dp</dimen>
+    <dimen name="buttonBlueThreeRadius">5dp</dimen>
+    <dimen name="buttonBlueThreeTextSize">16sp</dimen>
+    <dimen name="buttonBlueThreePaddingStart">20dp</dimen>
+    <dimen name="buttonBlueThreePaddingEnd">20dp</dimen>
+
+    <dimen name="buttonBlueFourHeight">42dp</dimen>
+    <dimen name="buttonBlueFourRadius">5dp</dimen>
+    <dimen name="buttonBlueFourTextSize">16sp</dimen>
+    <dimen name="buttonBlueFourPadding">20dp</dimen>
+
+    <dimen name="buttonGreenOneHeight">42dp</dimen>
+    <dimen name="buttonGreenOneRadius">21dp</dimen>
+    <dimen name="buttonGreenOneTextSize">20sp</dimen>
+    <dimen name="buttonGreenOnePaddingStart">50dp</dimen>
+    <dimen name="buttonGreenOnePaddingEnd">50dp</dimen>
+
+    <dimen name="buttonGreenTwoHeight">42dp</dimen>
+    <dimen name="buttonGreenTwoRadius">5dp</dimen>
+    <dimen name="buttonGreenTwoTextSize">20sp</dimen>
+    <dimen name="buttonGreenTwoPaddingStart">20dp</dimen>
+    <dimen name="buttonGreenTwoPaddingEnd">20dp</dimen>
+
+    <dimen name="buttonGreyOneHeight">42dp</dimen>
+    <dimen name="buttonGreyOneRadius">5dp</dimen>
+    <dimen name="buttonGreyOneTextSize">16sp</dimen>
+    <dimen name="buttonGreyOnePadding">0dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>
