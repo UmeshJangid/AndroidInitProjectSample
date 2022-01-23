@@ -1,6 +1,6 @@
 {
   "project_info": {
-    "project_number": "38276091426",
+    "project_number": "38",
     "firebase_url": "https://fcmdynamiclink-b587b.firebaseio.com",
     "project_id": "fcmdynamiclink-b587b",
     "storage_bucket": "fcmdynamiclink-b587b.appspot.com"
@@ -23,20 +23,20 @@
           }
         },
         {
-          "client_id": "38276091426-24c26mto9bv7ipurknhvja3omkkrgu3p.apps.googleusercontent.com",
+          "client_id": "386-24c26mto9bv7ipurknhvja3omkkrgu3p.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDu8B5GSiXDAv58V4qubKr5GOJR3k_vVVc"
+          "current_key": "AIzaSyDu8B5GSiXDA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "38276091426-24c26mto9bv7ipurknhvja3omkkrgu3p.apps.googleusercontent.com",
+              "client_id": "36-24c26mto9bv7ipurknhvja3omkkrgu3p.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -52,7 +52,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "38276091426-2qf67j1lfgb3jriigt7hvd8fuvfh8r9a.apps.googleusercontent.com",
+          "client_id": "38-2qf67j1lfgb3jriigt7hvd8fuvfh8r9a.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.app.fcmdynamiclink",
@@ -60,20 +60,20 @@
           }
         },
         {
-          "client_id": "38276091426-24c26mto9bv7ipurknhvja3omkkrgu3p.apps.googleusercontent.com",
+          "client_id": "386-24c26mto9bv7ipurknhvja3omkkrgu3p.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDu8B5GSiXDAv58V4qubKr5GOJR3k_vVVc"
+          "current_key": "AIzaSyDu8B5GSiXDAv58V4qubKr"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "38276091426-24c26mto9bv7ipurknhvja3omkkrgu3p.apps.googleusercontent.com",
+              "client_id": "3827-24c26mto9bv7ipurknhvja3omkkrgu3p.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
