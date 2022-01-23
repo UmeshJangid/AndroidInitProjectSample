@@ -21,3 +21,13 @@ This project contains following:
 ### Network Classes (Ready to user api)
 ### Live Location Module
 and any more.
+
+
+If you are very new guy in mobile application world , I recommend that you use Android documentations :
+
+https://github.com/android
+
+https://guides.codepath.com/android/Sample-Android-Apps
+
+And Have some other references as well.
+https://github.com/nisrulz/android-examples
