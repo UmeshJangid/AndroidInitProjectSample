@@ -3,7 +3,7 @@ Just clone/paste and start android coding. This Repo incudes sample screens.
 
 THis is a sample quick init android project where you can intiate without creating any app from scratch. It is the **sekleton**.
 
-Start contributing to it if you need. I am ready to merge your request on deamd basis.
+Start contributing to it if you need. I am ready to merge your request on demand basis.
 
 This project contains following:
 
