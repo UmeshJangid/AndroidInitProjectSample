@@ -8,7 +8,7 @@ Start contributing to it if you need. I am ready to merge your request on deamd 
 This project contains following:
 
 # UI
-# 1.Splash screen 
+## 1.Splash screen 
 # 2.Login/Signin Screen 
 # 3.Register/Signup Screen 
 # 4.Forgot Password Screen
